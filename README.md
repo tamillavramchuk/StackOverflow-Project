@@ -1,5 +1,16 @@
 # StackOverflow-Project
 
-## Links 
-- BigQuery script - checking the Stackoverflow dataset, getting familiar with a structure of the data, splitting the column of tags, preparing dataset (https://console.cloud.google.com/bigquery?ws=!1m7!1m6!12m5!1m3!1sstackoverflow-project-477512!2seurope-west1!3s43449e91-6d80-4dbe-a582-e940b743d58c!2e1)
-- BigQuery dataset - the one I used in dbt part of the project and in Looker (https://console.cloud.google.com/bigquery?ws=!1m5!1m4!4m3!1sstackoverflow-project-477512!2sstackoverflow_us!3stopics)
+## BigQuery
+- BigQuery script StackOverFlow.sql - checking the Stackoverflow dataset, getting familiar with a structure of the data, splitting the column of tags, preparing dataset
+
+Dataset: `stackoverflow-project-477512.stackoverflow_us`
+
+Contains:
+- `topics` – aggregated metrics for StackOverflow tags (topics)
+
+Due to Google Cloud IAM restrictions, the dataset cannot be shared publicly.
+Screenshots below show structure and sample data.
+
+<img width="870" height="449" alt="image" src="https://github.com/user-attachments/assets/a2563ecb-4b44-47d4-86fd-e2c5102852e5" />
+<img width="802" height="448" alt="image" src="https://github.com/user-attachments/assets/76283285-f3f8-4fc0-bd4f-8ff5db52e514" />
+
