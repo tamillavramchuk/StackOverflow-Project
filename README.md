@@ -23,6 +23,6 @@ The dbt project contains:
 - `schema.yml` — tests and documentation for dbt models
 
 Documentation generated with `dbt docs generate`.
-Below is the lineage diagram generated from dbt documentation, showing model dependencies:
+Below is the lineage diagram ("star schema") generated from dbt documentation, showing model dependencies:
 <img width="1402" height="730" alt="image" src="https://github.com/user-attachments/assets/61ecfe48-8662-4a6c-8b10-e322132215ad" />
 
