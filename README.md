@@ -3,8 +3,8 @@
 ## BigQuery
 Dataset: `stackoverflow-project-477512.stackoverflow_us`
 
-- BigQuery script StackOverFlow_analysis.sql - checking the Stackoverflow dataset, getting familiar with a structure of the data, splitting the column of tags, preparing dataset
-- BigQuery script creating_tables.sql - creating tables using stackoverflow_us dataset
+- BigQuery script `StackOverFlow_analysis.sql` - checking the Stackoverflow dataset, getting familiar with a structure of the data, splitting the column of tags, preparing dataset
+- BigQuery script `creating_tables.sql` - creating tables using stackoverflow_us dataset
 
 Contains:
 - `topics` – aggregated metrics for StackOverflow tags (topics)
