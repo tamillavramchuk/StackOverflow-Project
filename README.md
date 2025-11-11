@@ -23,6 +23,7 @@ The dbt project contains:
 
 Documentation generated with `dbt docs generate`.
 Below is the lineage diagram ("star schema") generated from dbt documentation, showing model dependencies:
+
 <img width="650" height="275" alt="Zrzut ekranu 2025-11-11 o 12 24 23" src="https://github.com/user-attachments/assets/6b76035d-63a2-45cf-92db-ee61a8ae21d7" />
 
 
