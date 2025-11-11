@@ -1,4 +1,5 @@
 # StackOverflow-Project
+Aim: to answer the question:`which topics have the highest need for answers?`
 
 ## BigQuery
 Dataset: `stackoverflow-project-477512.stackoverflow_us`
